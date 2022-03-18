@@ -16,7 +16,7 @@ Using npm:
 npm install colorbri
 ```
 
-## Exapmle
+## Example
 
 ### Generate random HEX color value
 
