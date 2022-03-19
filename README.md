@@ -1,6 +1,6 @@
 # colorbri
 
-## This package will generate random colors. It comes with multiple methods to generate color of your choice.
+## This package will generate random colors. It comes with multiple methods to generate colors in multiple formats.
 
 ## Features
 
@@ -34,7 +34,7 @@ You can call randomRGBColor() to generate a random RGB color. It will return a s
 colorbri.randomRGBColor()
 ```
 
-### Generate random HEX color value
+### Generate random RGBA color value
 
 You can call randomRGBAColor() to generate a random RGBA color. It will return a string with RGBA color value.
 
